@@ -10099,4 +10099,80 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 	braviarymega: {
 		natDexTier: "UU",
 	},
+	pokestarsmeargle: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarufo: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarufo2: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarbrycenman: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarmt: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarmt2: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestartransport: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestargiant: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestargiant2: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarhumanoid: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarmonster: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarf00: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarf002: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarspirit: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarblackdoor: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarwhitedoor: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarblackbelt: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestargiantpropo2: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
+	pokestarufopropu2: {
+		isNonstandard: "Custom",
+		tier: "Illegal",
+	},
 };
